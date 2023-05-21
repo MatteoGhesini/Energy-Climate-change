@@ -5,7 +5,7 @@ require(gdxtools)
 require(witchtools)
 require(ggpubr)
 
-file_directory <- "~/GitHub/climate-change/Italy/Results"
+file_directory <- "~/GitHub/MatteoGhesini/Project-Energy-Climate-change/Italy/Results"
 complete_directory <- here::here()
 all_gdx <- c(Sys.glob(here::here(file_directory,"results_*.gdx")))
 
@@ -17,7 +17,7 @@ osemosys_sanitize <- function(.x) {
   .x[, scen := str_replace(scen,".gdx","")]
   .x[, gdx := NULL]}
 
-directory_graphs = "~/GitHub/climate-change/Italy/Plots/Energy&Economy/"
+directory_graphs = "~/GitHub/MatteoGhesini/Project-Energy-Climate-change/Italy/Plots/Energy&Economy/"
 
 ################################################################################
 ##### CREATION OF THE LEGEND ###################################################
