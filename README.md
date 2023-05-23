@@ -18,3 +18,5 @@
 One of the many impacts of climate change is the alteration of the water cycle. The Mediterranean area is projected to experience an increase in the duration and intensity of droughts.
 This phenomenon affects electricity production due to the water requirements for cooling thermoelectric plants and for hydroelectric power, which is a significant energy source in Italy. <br>
 We envisioned adaptation to possible future scenarios of lower water availability, with its consequences on the power mix. We also considered various human water demand scenarios. </p>
+
+<p align="left">Evaluated by other students as the best project of that year. </p>
